@@ -1,6 +1,6 @@
-# kurtlar
+# Kurtlar Sofrası
 
-A new Flutter project.
+A new Flutter project. This is the card game inspired by the game "Vampire Villager".
 
 ## Getting Started
 
